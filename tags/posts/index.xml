@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on CarsonOK</title>
+    <link>http://localhost:1313/tags/posts/</link>
+    <description>Recent content in Posts on CarsonOK</description>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 19 Mar 2025 20:20:07 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Addiction Behind Bloons</title>
+      <link>http://localhost:1313/posts/the-addiction-behind-bloons/</link>
+      <pubDate>Wed, 19 Mar 2025 20:20:07 -0500</pubDate>
+      <guid>http://localhost:1313/posts/the-addiction-behind-bloons/</guid>
+      <description>By now, I&amp;rsquo;ll bet you&amp;rsquo;ve heard of Bloons TD 6. If you haven&amp;rsquo;t, here&amp;rsquo;s a quick rundown. Bloons TD is a popular tower defense game developed by Ninja Kiwi. In the game, players place various types of monkey towers along a path to pop waves of colorful balloons (called bloons) before they reach the end of the path.</description>
+    </item>
+  </channel>
+</rss>
